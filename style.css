@@ -2,6 +2,11 @@ body {
   padding-top: 90px;
   background-color: lightgray;
 }
+
+#homeLogo {
+  height: 60px;
+}
+
 .card {
   display: inline;
   background-color: grey;
@@ -10,26 +15,52 @@ body {
   width: 200px;
   text-align: center;
 }
+
 .causeTitle {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
 .cardPhoto {
   border-top-right-radius: 30px;
   border-top-left-radius: 30px;
   width: 200px;
 }
+
 .cardsGrid {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  column-gap: 20px;
-  row-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px
 }
+
 #head {
   background-color: orangered;
+  align-items: center;
   display: flex;
-  height: 90px;
+  height: 60px;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
+}
+
+#headRight {
+  position: absolute;
+  right: 0;
+}
+
+#headRight h1 {
+  display: inline;
+  padding: 0 20px;
+}
+
+.headingLink {
+  text-decoration: none;
+  color: black;
+}
+
+.searchBar {
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  padding: 0 20px;
 }
