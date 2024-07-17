@@ -5,6 +5,11 @@ const causes = [
   //   img: "cause.png",
   //   src: "cause/cause.html",
   // },
+  {
+    name: "test",
+    img: "images",
+    src: "#"
+  }
 ]
 function display(info){
   let cardsGrid = ""
