@@ -1,4 +1,12 @@
-const sources = [
+const sources = [{
+  title:'Womens Refuge',
+  author:'The People At Womens Refuge',
+  publisher:'N/A',
+  date:'',
+  dateAccessed:'18/7/24',
+  URL:'https://awrefuge.org.nz/',
+  citedIn:'Domestic violence'
+}
     //Standard:
     //{
     //     title: 'Title',
