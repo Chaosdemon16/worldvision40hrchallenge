@@ -3,7 +3,22 @@ body {
   background-color: lightgray;
   font-family: Arial;
 }
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+nav ul li {
+  margin: 0 15px;
+}
 
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
 #homeLogo {
   height: 60px;
 }
@@ -49,6 +64,7 @@ body {
   background-color: orangered;
   align-items: center;
   display: flex;
+  justify-content: center;
   height: 60px;
   position: fixed;
   top: 0;
@@ -58,19 +74,23 @@ body {
 
 #headRight {
   position: absolute;
-  right: 0;
+  right: 10px;
 }
-
+#headMiddle {
+  display: flex;
+}
 #headRight h1 {
   display: inline;
   padding: 0 20px;
 }
-
+#headLeft {
+  position:absolute ;
+  left: 10px;
+}
 .headingLink {
   text-decoration: none;
   color: black;
 }
-
 .searchBar {
   height: 30px;
   border-radius: 10px;
