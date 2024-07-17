@@ -3,22 +3,6 @@ body {
   background-color: lightgray;
   font-family: Arial;
 }
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-}
-nav ul li {
-  margin: 0 15px;
-}
-
-nav ul li a {
-  color: #fff;
-  text-decoration: none;
-  font-weight: bold;
-}
 
 #homeLogo {
   height: 60px;
@@ -30,11 +14,16 @@ nav ul li a {
   border-radius: 30px;
   padding: 0px;
   width: 200px;
+  height: 300px;
+  text-wrap: wrap;
+  overflow: hidden;
   text-align: center;
+  font-size: 24px;
 }
 .card:hover {
   opacity: 0.7;
   cursor: pointer;
+  z-index: -1;
 }
 .card:active {
   background-color: rgb(168, 164, 164);
@@ -50,9 +39,9 @@ nav ul li a {
   width: 200px;
 }
 
-.cardsGrid {
+#cardsGrid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 20px
 }
 
@@ -69,21 +58,14 @@ nav ul li a {
 
 #headRight {
   position: absolute;
-  right: 10;
-}
-#headMiddle {
-  display: flex;
+  right: 0;
 }
 
 #headRight h1 {
   display: inline;
   padding: 0 20px;
 }
-#headLeft {
-  position:absolute ;
-  left: 10px;
-}
-  
+
 .headingLink {
   text-decoration: none;
   color: black;
