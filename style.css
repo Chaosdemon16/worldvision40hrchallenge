@@ -42,6 +42,7 @@ nav ul li a {
 }
 .card:active {
   background-color: rgb(168, 164, 164);
+  opacity: 0.5;
 }
 
 .causeTitle {

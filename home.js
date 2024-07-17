@@ -8,7 +8,7 @@ const causes = [
   {
     name: "A1",
     img: "images/test.png",
-    src: "cause/index.html",
+    src: "#",
   },
   {
     name: "A2",
@@ -41,8 +41,8 @@ console.log(causes.length - 1)
 function display(info){
   let cardsGrid = ""
   for(let i = 0; i < info.length; i++){
-    cardsGrid += "<div class='card'><img class='cardPhoto' src='" + info[i].img + "'><b><p class='causeTitle'>" + info[i].name + "</p></b></div>"
-  }
+    cardsGrid +=  "<a href='" + info[i].src + "'><div class='card'><img class='cardPhoto' src='" + info[i].img + "'><b><p class='causeTitle'>" + info[i].name + "</p></b></div></a>"
+  } 
   document.querySelector("#cardsGrid").innerHTML = cardsGrid
 }
 display(causes)
