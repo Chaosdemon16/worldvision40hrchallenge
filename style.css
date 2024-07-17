@@ -102,3 +102,19 @@ a {
   text-decoration: none;
   color:black;
 }
+.source {
+  min-width: 10vh;
+  min-height: 70px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 7px;
+  margin: 10px;
+}
+.sourceList {
+  display: flex;
+  flex-direction: column;
+
+}
+.sourceTitle {
+  
+}
