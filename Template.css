@@ -1,0 +1,47 @@
+body {
+  margin-top: 90px;
+  padding: none;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+header {
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  background-color: grey;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.backToHome img {
+  position:absolute ;
+  left: 10px;
+  height: 65px;
+  margin-top: 0cm;
+  top:0;
+}
+#heroImg {
+  background-image: url('Herotemplate.png');
+  background-attachment: fixed;
+  min-height: 300px;
+  margin: 0;
+  background-repeat:no-repeat;
+  background-size: 100%;
+  padding: 0;
+}
