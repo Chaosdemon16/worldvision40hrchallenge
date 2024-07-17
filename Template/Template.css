@@ -38,10 +38,39 @@ header {
 }
 #heroImg {
   background-image: url('Herotemplate.png');
-  background-attachment: fixed;
-  min-height: 300px;
+  background-attachment: scroll;
+
   margin: 0;
   background-repeat:no-repeat;
+  min-height: 100%;
   background-size: 100%;
   padding: 0;
+  text-align: center;
+  position: absolute;  
+  left: 0;
+  right:0;
+}
+#hero {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#heroTitle {
+  margin-top: 200px;
+  font-size: 40px;
+}
+#info {
+  display: flex;
+  flex-direction: column;
+}
+.infoCard {
+    background-color: #908e8e;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 20px;
+  text-align: left;
 }
