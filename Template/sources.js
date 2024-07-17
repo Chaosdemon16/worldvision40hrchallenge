@@ -7,13 +7,12 @@ const sources = [
     //     date: '2/3/24',
     //     dateAccessed: '4/5/24',
     //     URL: 'en.wikipedia.org'
-    //     citedIn: 'Human Trafficking'
     // }
 ]
   function display(info){
     let sourceList = ""
     for(let i = 0; i < info.length; i++){
-      sourceList += "<a href=" + info[i].URL + "><div class='source'><h3 class='sourceTitle'>" + info[i].author + " " + info[i].date + ": " + info[i].title + " - " + info[i].publisher + "</h3> <p class='sourceInfo'>" + info[i].URL + " [Accessed " + info[i].dateAccessed + " for the " + info[i].citedIn + " site]</p></div>"
+      sourceList += "<a href=" + info[i].URL + "><div class='source'><h3 class='sourceTitle'>" + info[i].author + " " + info[i].date + ": " + info[i].title + " - " + info[i].publisher + "</h3> <p class='sourceInfo'>" + info[i].URL + " [Accessed " + info[i].dateAccessed + "]</p></div>"
     }
     document.querySelector("#sourceList").innerHTML = sourceList
   }
@@ -33,5 +32,5 @@ const sources = [
     };
   };
   function magic() {
-    document.location.href = "Magic/index.html";
+    document.location.href = "/Magic/index.html";
   }
