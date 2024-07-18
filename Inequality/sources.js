@@ -13,7 +13,7 @@ const sources = [
       author: 'Wikipedia',
       publisher: 'Wikipedia',
       date: '',
-      dateAccessed: 'July 18, 2023',
+      dateAccessed: 'July 18, 2024',
       URL: 'https://en.wikipedia.org/wiki/Economic_inequality'
     },
     {

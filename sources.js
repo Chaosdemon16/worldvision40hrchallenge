@@ -121,6 +121,14 @@ const sources = [
       dateAccessed: 'July 18, 2024',
       URL: 'https://www.investopedia.com/terms/c/capital_gains_tax.asp'
     },
+    {
+      title: 'The Gender Pay Gap',
+      author: '',
+      publisher: 'The Ministry for Women',
+      date: '2023',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.women.govt.nz/women-and-work/gender-pay-gap'
+    },
 ]
   function display(info){
     let sourceList = ""

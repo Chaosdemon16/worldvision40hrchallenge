@@ -9,29 +9,13 @@ const sources = [
     //     URL: 'en.wikipedia.org'
     // }
     {
-      title: 'Te Tiriti o Waitangi - the Treaty of Waitangi',
-      author: 'Claudia Orange',
-      publisher: 'Te Ara - the Encyclopedia of New Zealand',
-      date: 'March 28, 2023',
+      title: 'The Gender Pay Gap',
+      author: '',
+      publisher: 'The Ministry for Women',
+      date: '2023',
       dateAccessed: 'July 18, 2024',
-      URL: 'http://www.TeAra.govt.nz/en/te-tiriti-o-waitangi-the-treaty-of-waitangi/print'
-    },
-    {
-      title: 'Differences between the texts',
-      author: 'Manatū Taonga — Ministry for Culture and Heritage',
-      publisher: 'NZ history',
-      date: 'October 5, 2021',
-      dateAccessed: 'July 18, 2024',
-      URL: 'https://nzhistory.govt.nz/politics/treaty/read-the-Treaty/differences-between-the-texts'
-    },
-    {
-      title: 'About the Waitangi Tribunal',
-      author: 'Waitangi Tribunal',
-      publisher: 'Waitangi Tribunal',
-      date: 'September 4, 2023',
-      dateAccessed: 'July 18, 2024',
-      URL: 'https://www.waitangitribunal.govt.nz/about/'
-    },
+      URL: 'https://www.women.govt.nz/women-and-work/gender-pay-gap'
+    }
 ]
   function display(info){
     let sourceList = ""

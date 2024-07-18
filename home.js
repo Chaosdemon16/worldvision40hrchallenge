@@ -25,6 +25,11 @@ const causes = [
     img: "images/inequality.jpg",
     src: "inequality/index.html"
   },
+  {
+    name: "Gender Pay Gap",
+    img: "images/payGap.jpg",
+    src: "payGap/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""
