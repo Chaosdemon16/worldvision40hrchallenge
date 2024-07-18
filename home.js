@@ -35,6 +35,11 @@ const causes = [
     img: "images/lithiumMining.jpg",
     src: "lithiumMining/index.html"
   },
+  {
+    name: "Free Speech",
+    img: "images/freeSpeech.jpg",
+    src: "freeSpeech/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""

@@ -145,6 +145,22 @@ const sources = [
       dateAccessed: 'July 18, 2024',
       URL: 'https://earth.org/lithium-and-cobalt-mining/'
     },
+    {
+      title: 'Freedom of Expression',
+      author: 'Amnesty International',
+      publisher: 'Amnesty International',
+      date: '',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.amnesty.org/en/what-we-do/freedom-of-expression/'
+    },
+    {
+      title: 'How the American Public Understands—and Misunderstands—Free Speech',
+      author: 'Timothy Rich, Ian Milden',
+      publisher: 'Fair Observer',
+      date: 'August 16 2022',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.fairobserver.com/world-news/us-news/how-the-american-public-understands-and-misunderstands-free-speech/'
+    },
 ]
   function display(info){
     let sourceList = ""
