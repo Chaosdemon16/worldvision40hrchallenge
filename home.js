@@ -45,6 +45,11 @@ const causes = [
     img: "images/climateChange.jpg",
     src: "climateChange/index.html"
   },
+  {
+    name: "Public Transport",
+    img: "images/publicTransport.jpg",
+    src: "publictransport/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""
