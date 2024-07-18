@@ -14,7 +14,12 @@ const causes = [
     name: "Nuclear Free Aotearoa",
     img: "NuclearFree.jpg",
     src: "nuclearFree/index.html"
-  }
+  },
+  {
+    name: "Te Tiriti o Waitangi",
+    img: "images/teTiriti.jpg",
+    src: "teTiriti/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""
