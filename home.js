@@ -65,6 +65,11 @@ const causes = [
     img: "images/xenophobia.jpg", 
     src: "xenophobia/index.html"
   },
+  {
+    name: "Cults",
+    img: "images/cult.jpg", 
+    src: "cults/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""

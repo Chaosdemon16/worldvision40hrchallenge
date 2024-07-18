@@ -257,6 +257,30 @@ const sources = [
       dateAccessed: 'July 19, 2024',
       URL: 'https://gjia.georgetown.edu/2024/05/26/xenophobia-a-pervasive-crisis-in-post-apartheid-south-africa'
     },
+    {
+      title: 'Cult',
+      author: 'Rebecca M. Kulik',
+      publisher: 'Britannica',
+      date: '',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://www.britannica.com/topic/cult'
+    },
+    {
+      title: 'What Makes a Cult a Cult?',
+      author: 'Zoë Heller',
+      publisher: 'The New Yorker',
+      date: 'July 5 2021',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://www.newyorker.com/magazine/2021/07/12/what-makes-a-cult-a-cult'
+    },
+    {
+      title: `Heaven's gate (religious group)`,
+      author: 'Wikipedia',
+      publisher: 'Wikipedia',
+      date: '',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)'
+    },
 ]
   function display(info){
     let sourceList = ""
