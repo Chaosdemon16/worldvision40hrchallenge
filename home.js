@@ -40,6 +40,11 @@ const causes = [
     img: "images/freeSpeech.jpg",
     src: "freeSpeech/index.html"
   },
+  {
+    name: "Climate Change",
+    img: "images/climateChange.jpg",
+    src: "climateChange/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""
