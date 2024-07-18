@@ -241,6 +241,22 @@ const sources = [
       dateAccessed: 'July 18, 2024',
       URL: 'https://www.unaids.org/en/resources/fact-sheet'
     },
+    {
+      title: 'Xenophobia',
+      author: 'Rebecca M. Kulik',
+      publisher: 'Britanicca',
+      date: 'June 13 2024',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://www.britannica.com/science/xenophobia'
+    },
+    {
+      title: 'Xenophobia: A Pervasive Crisis in Post-Apartheid South Africa',
+      author: 'Bastien Dratwa',
+      publisher: 'Georgetown Journal of International Affairs',
+      date: 'May 26 2024',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://gjia.georgetown.edu/2024/05/26/xenophobia-a-pervasive-crisis-in-post-apartheid-south-africa'
+    },
 ]
   function display(info){
     let sourceList = ""

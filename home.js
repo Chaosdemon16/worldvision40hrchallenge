@@ -60,6 +60,11 @@ const causes = [
     img: "images/AIDS.jpg", 
     src: "AIDS/index.html"
   },
+  {
+    name: "Xenophobia",
+    img: "images/xenophobia.jpg", 
+    src: "xenophobia/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""
