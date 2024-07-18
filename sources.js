@@ -129,6 +129,22 @@ const sources = [
       dateAccessed: 'July 18, 2024',
       URL: 'https://www.women.govt.nz/women-and-work/gender-pay-gap'
     },
+    {
+      title: 'Is Lithium Mining Bad for the Environment?',
+      author: 'Inemesit Ukpanah',
+      publisher: 'Greenmatch',
+      date: 'July 15 2024',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.greenmatch.co.uk/blog/is-lithium-mining-bad-for-the-environment'
+    },
+    {
+      title: 'The Environmental Impacts of Lithium and Cobalt Mining',
+      author: 'March Zheng',
+      publisher: 'Earth.org',
+      date: 'March 31 2023',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://earth.org/lithium-and-cobalt-mining/'
+    },
 ]
   function display(info){
     let sourceList = ""

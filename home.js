@@ -30,6 +30,11 @@ const causes = [
     img: "images/payGap.jpg",
     src: "payGap/index.html"
   },
+  {
+    name: "Lithium Mining",
+    img: "images/lithiumMining.jpg",
+    src: "lithiumMining/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""
