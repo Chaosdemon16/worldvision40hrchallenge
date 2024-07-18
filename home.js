@@ -55,6 +55,11 @@ const causes = [
     img: "images/universalHealth.jpg",
     src: "universalHealth/index.html"
   },
+  {
+    name: "HIV & AIDS",
+    img: "images/AIDS.jpg", 
+    src: "AIDS/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""

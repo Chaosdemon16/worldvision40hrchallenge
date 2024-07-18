@@ -225,6 +225,22 @@ const sources = [
       dateAccessed: 'July 18, 2024',
       URL: 'https://www.internationalinsurance.com/health/systems/'
     },
+    {
+      title: 'What are HIV and AIDS',
+      author: 'HIV.gov',
+      publisher: 'HIV.gov',
+      date: 'January 13 2023',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids'
+    },
+    {
+      title: 'Global HIV & AIDS statistics - Fact Sheet',
+      author: 'UNAIDS',
+      publisher: 'UNAIDS',
+      date: '',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.unaids.org/en/resources/fact-sheet'
+    },
 ]
   function display(info){
     let sourceList = ""
