@@ -5,6 +5,11 @@ const causes = [
   //   img: "cause.png",
   //   src: "cause/cause.html",
   // },
+  {
+    name: "Trans-affirming Healthcare",
+    img: "images/transFlag.png",
+    src: "transHealth/index.html"
+  }
 ]
 function display(info){
   let cardsGrid = ""
