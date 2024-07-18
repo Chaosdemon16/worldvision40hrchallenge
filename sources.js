@@ -78,6 +78,14 @@ const sources = [{
   dateAccessed:'19/7/24',
   URL:'https://en.wikipedia.org/wiki/Sea_level_rise',
   citedIn:'The Rise in Sea Level'
+},{
+  title:'8 THINGS TO KNOW ABOUT PALM OIL',
+  author:'WWF',
+  publisher:'World Wide Fund for Animals',
+  date:'',
+  dateAccessed:'19/7/24',
+  URL:'https://www.wwf.org.uk/updates/8-things-know-about-palm-oil',
+  citedIn:'Palm Oil',
 }
     //Standard:
     //{
