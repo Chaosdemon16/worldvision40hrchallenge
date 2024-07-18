@@ -1,4 +1,4 @@
-const causes = [{name: 'Domestic violence', img:'Images/domvio.png', src:'Domestic violence/index.html'},{name: 'Human Trafficking', img:'Images/HT.png', src:'Human Trafficking/index.html'},{name:'Predator Free NZ', img:'Images/PFNZ.png', src:'PredatorFreeNz/index.html'}
+const causes = [{name: 'Domestic violence', img:'Images/domvio.png', src:'Domestic violence/index.html'},{name: 'Human Trafficking', img:'Images/HT.png', src:'Human Trafficking/index.html'},{name:'Predator Free NZ', img:'Images/PFNZ.png', src:'PredatorFreeNz/index.html'},{name:'Black Lives Matter', img:'images/BLM.png', src:'BLM/index.html'},{name:'Waste Reduction', img:'WR.png', src:'Waste reduction/index.html'}
   //Standard:
   //{
   //   name: "cause",
