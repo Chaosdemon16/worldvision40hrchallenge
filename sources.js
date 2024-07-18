@@ -6,6 +6,30 @@ const sources = [{
   dateAccessed:'18/7/24',
   URL:'https://awrefuge.org.nz/',
   citedIn:'Domestic violence'
+},{
+  title:'new-zealand-family-violence-and-economic-harm-statistics',
+  author: 'Good Shepherd',
+  publisher:'The Good Shepherd',
+  date:'',
+  dateAccessed:'18/7/24',
+  URL:'https://goodshepherd.org.nz/economic-harm/new-zealand-family-violence-and-economic-harm-statistics',
+  citedIn:'Domestic violence'
+}, {
+  title:'Human Trafficking FAQs',
+  author:'United Nations Office on Drugs and Crime',
+  publisher:'United Nations',
+  date:'2020-2024',
+  dateAccessed:'18/7/24',
+  URL:'https://www.unodc.org/unodc/en/human-trafficking/faqs.html',
+  citedIn: 'Human Trafficking'
+},{
+  title:'Statistics about Human Trafficking',
+  author:'Disrupt Human Trafficking',
+  publisher:'DHT',
+  date:'',
+  dateAccessed:'18/7/24',
+  URL: 'https://www.disrupthumantrafficking.com/statistics',
+  citedIn: 'Human Trafficking'
 }
     //Standard:
     //{
