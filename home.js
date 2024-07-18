@@ -1,4 +1,4 @@
-const causes = [{name: 'Domestic violence', img:'Images/domvio.png', src:'Domestic violence/index.html'},{name: 'Human Trafficking', img:'Images/HT.png', src'Human Trafficking/index.html'}
+const causes = [{name: 'Domestic violence', img:'Images/domvio.png', src:'Domestic violence/index.html'},{name: 'Human Trafficking', img:'Images/HT.png', src:'Human Trafficking/index.html'}
   //Standard:
   //{
   //   name: "cause",
