@@ -281,6 +281,22 @@ const sources = [
       dateAccessed: 'July 19, 2024',
       URL: 'https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)'
     },
+    {
+      title: 'Human Rights',
+      author: 'United Nations',
+      publisher: 'United Nations',
+      date: '',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://www.un.org/en/global-issues/human-rights'
+    },
+    {
+      title: 'Universal Declaration of Human Rights',
+      author: 'United Nations',
+      publisher: 'United Nations',
+      date: '',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://www.un.org/en/about-us/universal-declaration-of-human-rights'
+    },
 ]
   function display(info){
     let sourceList = ""

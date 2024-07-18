@@ -70,6 +70,11 @@ const causes = [
     img: "images/cult.jpg", 
     src: "cults/index.html"
   },
+  {
+    name: "Human Rights",
+    img: "images/humanRights.webp", 
+    src: "humanRights/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""
