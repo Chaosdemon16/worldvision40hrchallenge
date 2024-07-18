@@ -86,6 +86,30 @@ const sources = [{
   dateAccessed:'19/7/24',
   URL:'https://www.wwf.org.uk/updates/8-things-know-about-palm-oil',
   citedIn:'Palm Oil',
+},{
+  title:'Caring for Your Mental Health',
+  author:'nimh',
+  publisher:'National Institute of Mental Health',
+  date:'Febuary 2024',
+  dateAccessed:'19/7/24',
+  URL:'https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health',
+  citedIn:'Mental Health',
+},{
+  title:'Get Help Now',
+  author:'Depression.org',
+  publisher:'Depression.org',
+  date:'',
+  dateAccessed:'19/7/24',
+  URL:'https://www.depression.org.nz/get-help',
+  citedIn:'Mental Health',
+},{
+  title:'What is wellbeing',
+  author:'Mental health foundation',
+  publisher:'Mental Health foundation',
+  date:'',
+  dateAccessed:'19/7/24',
+  URL:'https://mentalhealth.org.nz/what-is-wellbeing',
+  citedIn:'Mental health',
 }
     //Standard:
     //{
