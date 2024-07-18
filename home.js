@@ -20,6 +20,11 @@ const causes = [
     img: "images/teTiriti.jpg",
     src: "teTiriti/index.html"
   },
+  {
+    name: "Inequality",
+    img: "images/inequality.jpg",
+    src: "inequality/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""

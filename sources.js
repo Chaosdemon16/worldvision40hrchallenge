@@ -81,6 +81,46 @@ const sources = [
       dateAccessed: 'July 18, 2024',
       URL: 'https://www.waitangitribunal.govt.nz/about/'
     },
+    {
+      title: 'Economic inequality',
+      author: 'Wikipedia',
+      publisher: 'Wikipedia',
+      date: '',
+      dateAccessed: 'July 18, 2023',
+      URL: 'https://en.wikipedia.org/wiki/Economic_inequality'
+    },
+    {
+      title: 'Tax Rates for Individuals',
+      author: 'IRD',
+      publisher: 'Inland Revenue',
+      date: 'April 1 2021',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/tax-rates-for-individuals'
+    },
+    {
+      title: 'Gini Coefficient by Country',
+      author: 'World Population Review',
+      publisher: 'World Population Review',
+      date: '',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country'
+    },
+    {
+      title: 'Wealth Tax: Definition, Examples, Pros & Cons',
+      author: 'Michelle P. Scott',
+      publisher: 'Investopedia',
+      date: 'May 19 2024',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.investopedia.com/terms/w/wealth-tax.asp'
+    },
+    {
+      title: 'Capital Gains Tax: What It Is, How It Works, and Current Rates',
+      author: 'Jason Fernando',
+      publisher: 'Investopedia',
+      date: 'June 18 2024',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.investopedia.com/terms/c/capital_gains_tax.asp'
+    },
 ]
   function display(info){
     let sourceList = ""
