@@ -30,6 +30,30 @@ const sources = [{
   dateAccessed:'18/7/24',
   URL: 'https://www.disrupthumantrafficking.com/statistics',
   citedIn: 'Human Trafficking'
+},{
+  title:'Report: Black people are still killed by police at a higher rate than other groups',
+  author:'Curtis Bunn',
+  publisher:'NBC News',
+  date:'March 4, 2022',
+  dateAccessed:'18/7/24',
+  URL:'https://www.nbcnews.com/news/nbcblk/report-black-people-are-still-killed-police-higher-rate-groups-rcna17169',
+  citedIn:'Black Lives Matter'
+},{
+  title:'Black Lives Matter Movement',
+  author:'The Editors of Encyclopedia Britanica',
+  publisher:'Britanica',
+  date:'July 17, 2024',
+  dateAccessed:'18/7/24',
+  URL:'https://www.britannica.com/topic/Black-Lives-Matter',
+  citedIn:'Black Lives Matter'
+},{
+  title:'Ways to reduce your waste',
+  author:'Auckland council',
+  publisher:'Auckland council',
+  date:'2024',
+  dateAccessed:'18/7/24',
+  URL:'https://www.aucklandcouncil.govt.nz/rubbish-recycling/ways-reduce-waste/Pages/default.aspx',
+  citedIn:'Waste reduction'
 }
     //Standard:
     //{
