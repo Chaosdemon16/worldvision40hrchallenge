@@ -54,6 +54,14 @@ const sources = [{
   dateAccessed:'18/7/24',
   URL:'https://www.aucklandcouncil.govt.nz/rubbish-recycling/ways-reduce-waste/Pages/default.aspx',
   citedIn:'Waste reduction'
+},{
+  title:'Concerning aspects around deep sea mining',
+  author:'Te Ipukarea Society',
+  publisher:'Green Piece',
+  date:'30/5/23',
+  dateAccessed:'18/7/24',
+  URL:'https://www.greenpeace.org/aotearoa/story/concerning-aspects-around-deep-sea-mining/?gad_source=1&gclid=Cj0KCQjw-uK0BhC0ARIsANQtgGNE9zqKo8rXXTwuSh2kYkDSgFs42ro58bsp7iWzSUlrilUH1RFqFcMaAjNEEALw_wcB',
+  citedIn: 'Deep sea mining'
 }
     //Standard:
     //{
