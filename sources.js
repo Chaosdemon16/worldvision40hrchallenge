@@ -41,6 +41,22 @@ const sources = [
       dateAccessed: 'July 18, 2024',
       URL: `https://www.nbcnews.com/nbc-out/out-health-and-wellness/hormone-therapy-linked-lower-suicide-risk-trans-youths-study-finds-rcna8617`
     },
+    {
+      title: 'Nuclear Free New Zealand',
+      author: '(Manatū Taonga — Ministry for Culture and Heritage',
+      publisher: 'NZhistory',
+      date: '20 September 2022',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://nzhistory.govt.nz/politics/nuclear-free-new-zealand/nuclear-free-zone'
+    },
+    {
+      title: 'The Bombing of the Rainbow Warrior',
+      author: 'Greenpeace',
+      publisher: 'Greenpeace',
+      date: '',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.greenpeace.org/aotearoa/about/our-history/bombing-of-the-rainbow-warrior/'
+    },
 ]
   function display(info){
     let sourceList = ""

@@ -9,6 +9,11 @@ const causes = [
     name: "Trans-affirming Healthcare",
     img: "images/transFlag.png",
     src: "transHealth/index.html"
+  },
+  {
+    name: "Nuclear Free Aotearoa",
+    img: "NuclearFree.jpg",
+    src: "nuclearFree/index.html"
   }
 ]
 function display(info){
