@@ -50,6 +50,11 @@ const causes = [
     img: "images/publicTransport.jpg",
     src: "publictransport/index.html"
   },
+  {
+    name: "Universal Healthcare",
+    img: "images/universalHealth.jpg",
+    src: "universalHealth/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""

@@ -177,6 +177,54 @@ const sources = [
       dateAccessed: 'July 18, 2024',
       URL: 'https://at.govt.nz/bus-train-ferry/fares-discounts/bus-train-fares'
     },
+    {
+    title: 'Universal Health Coverage',
+    author: 'World Health Organization',
+    publisher: 'World Health Organization',
+    date: '',
+    dateAccessed: 'July 18, 2024',
+    URL: 'https://www.who.int/health-topics/universal-health-coverage'
+    },
+    {
+      title: 'Internation Healthcare Profiles: United States',
+      author: 'Roosa Tikkanen, Robin Osborn, Elias Mossialos, Ana Djordjevic, George A. Wharton',
+      publisher: 'The Commonwealth Fund',
+      date: 'June 5 2020',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.commonwealthfund.org/international-health-policy-center/countries/united-states'
+    },
+    {
+      title: 'Why are Americans Paying More for Healthcare?',
+      author: 'Peter G. Peterson foundation',
+      publisher: 'Peter G. Peterson foundation',
+      date: 'January 3 2024',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.pgpf.org/blog/2024/01/why-are-americans-paying-more-for-healthcare'
+    },
+    {
+      title: 'New Zealand Healthcare System',
+      author: 'International Citizens Insurance',
+      publisher: 'International Citizens Insurance',
+      date: '',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.internationalinsurance.com/health/systems/new-zealand.php'
+    },
+    {
+      title: 'How Does U.S. Life Expectancy Compare to Other Countries?',
+      author: 'Shameek Rakshit, Mathew McGough, and Kurtika Amin',
+      publisher: 'Health System Tracker',
+      date: 'Januare 30 2024',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/'
+    },
+    {
+      title: 'What Are the Countries With the Best Healthcare?',
+      author: 'International Citizens Insurance',
+      publisher: 'International Citizens Insurance',
+      date: '',
+      dateAccessed: 'July 18, 2024',
+      URL: 'https://www.internationalinsurance.com/health/systems/'
+    },
 ]
   function display(info){
     let sourceList = ""
