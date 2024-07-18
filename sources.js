@@ -62,6 +62,14 @@ const sources = [{
   dateAccessed:'18/7/24',
   URL:'https://www.greenpeace.org/aotearoa/story/concerning-aspects-around-deep-sea-mining/?gad_source=1&gclid=Cj0KCQjw-uK0BhC0ARIsANQtgGNE9zqKo8rXXTwuSh2kYkDSgFs42ro58bsp7iWzSUlrilUH1RFqFcMaAjNEEALw_wcB',
   citedIn: 'Deep sea mining'
+},{
+  title:'Your Privacy Rights',
+  author:'Privacy Commissioner',
+  publisher:'The Office of the Privacy Commissioner',
+  date:'',
+  dateAccessed:'18/7/24',
+  URL:'https://www.privacy.org.nz/your-rights/your-privacy-rights/',
+  citedIn:'Data Privacy'
 }
     //Standard:
     //{
