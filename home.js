@@ -12,7 +12,7 @@ const causes = [
   },
   {
     name: "Nuclear Free Aotearoa",
-    img: "nuclearFree.jpg",
+    img: "images/nuclearFree.jpg",
     src: "nuclearFree/index.html"
   },
   {
