@@ -118,6 +118,13 @@ const sources = [{
   dateAccessed:'19/7/24',
   URL:'https://cloud.google.com/learn/what-is-artificial-intelligence',
   citedIn:'Artificial Intelligence',
+},{
+  title:'The Invasion of Ukraine',
+  author:'Center for Preventive Action',
+  publisher:'Global Conflict Tracker',
+  date:'20/5/24',
+  dateAccessed:'19/7/24',
+  citedIn:'The Russian Invasion of Ukraine'
 }
     //Standard:
     //{
