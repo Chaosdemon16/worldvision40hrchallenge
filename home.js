@@ -100,6 +100,11 @@ const causes = [
     img: "images/access.jpg", 
     src: "access/index.html"
   },  
+  {
+    name: "Make it 16",
+    img: "images/votingAge.png", 
+    src: "votingAge/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""

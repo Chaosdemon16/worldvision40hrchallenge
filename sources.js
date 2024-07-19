@@ -353,6 +353,14 @@ const sources = [
       dateAccessed: 'July 19, 2024',
       URL: 'https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/accessibility-in-public-spaces-definition-and-explanation/#:~:text=It%20refers%20to%20the%20design,in%20public%20life%20without%20barriers.'
     },
+    {
+      title: `Supreme Court of New Zealand declares that preventing 16 and 17 year olds from voting is unjustified age discrimination and in breach of the Bill of Rights Act`,
+      author: 'Make It 16',
+      publisher: 'Make it 16',
+      date: '',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://www.makeit16.org.nz/court-case'
+    },
 ]
   function display(info){
     let sourceList = ""
