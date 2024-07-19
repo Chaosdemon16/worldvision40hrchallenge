@@ -110,6 +110,14 @@ const sources = [{
   dateAccessed:'19/7/24',
   URL:'https://mentalhealth.org.nz/what-is-wellbeing',
   citedIn:'Mental health',
+},{
+  title:'What is Artificial Intelligence(AI)?',
+  author:'Google Cloud',
+  publisher:'Google',
+  date:'',
+  dateAccessed:'19/7/24',
+  URL:'https://cloud.google.com/learn/what-is-artificial-intelligence',
+  citedIn:'Artificial Intelligence',
 }
     //Standard:
     //{
