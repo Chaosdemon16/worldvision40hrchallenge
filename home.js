@@ -85,6 +85,11 @@ const causes = [
     img: "images/sexism.png", 
     src: "sexism/index.html"
   },
+  {
+    name: "NZ conservation efforts",
+    img: "images/conservation.jpg", 
+    src: "conservation/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""
