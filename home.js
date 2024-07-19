@@ -75,6 +75,11 @@ const causes = [
     img: "images/humanRights.webp", 
     src: "humanRights/index.html"
   },
+  {
+    name: "Homophobia & LGBTQ+ Violence",
+    img: "images/homophobia.png", 
+    src: "homophobia/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""

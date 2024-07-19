@@ -297,6 +297,22 @@ const sources = [
       dateAccessed: 'July 19, 2024',
       URL: 'https://www.un.org/en/about-us/universal-declaration-of-human-rights'
     },
+    {
+      title: 'Homophobia',
+      author: 'Eric Anderson',
+      publisher: 'Brittanica',
+      date: 'July 18 2024',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://www.britannica.com/topic/homophobia'
+    },
+    {
+      title: 'Violence against LGBT people',
+      author: 'Wikipedia',
+      publisher: 'Wikipedia',
+      date: '',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://en.wikipedia.org/wiki/Violence_against_LGBT_people'
+    },
 ]
   function display(info){
     let sourceList = ""
