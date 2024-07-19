@@ -95,6 +95,11 @@ const causes = [
     img: "images/dentistry.webp", 
     src: "dentistry/index.html"
   },  
+  {
+    name: "Accessibility",
+    img: "images/access.jpg", 
+    src: "access/index.html"
+  },  
 ]
 function display(info){
   let cardsGrid = ""

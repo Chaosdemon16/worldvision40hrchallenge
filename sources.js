@@ -345,6 +345,14 @@ const sources = [
       dateAccessed: 'July 19, 2024',
       URL: 'https://northandsouth.co.nz/2021/08/25/nz-dental-care-crisis'
     },
+    {
+      title: 'Accessibility in Public Spaces - Definition and Explanation',
+      author: 'Oxford  Review',
+      publisher: 'Oxford Review',
+      date: '',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/accessibility-in-public-spaces-definition-and-explanation/#:~:text=It%20refers%20to%20the%20design,in%20public%20life%20without%20barriers.'
+    },
 ]
   function display(info){
     let sourceList = ""
