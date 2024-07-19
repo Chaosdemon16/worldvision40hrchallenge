@@ -80,6 +80,11 @@ const causes = [
     img: "images/homophobia.png", 
     src: "homophobia/index.html"
   },
+  {
+    name: "Sexism",
+    img: "images/sexism.png", 
+    src: "sexism/index.html"
+  },
 ]
 function display(info){
   let cardsGrid = ""

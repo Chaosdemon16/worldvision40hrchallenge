@@ -313,6 +313,14 @@ const sources = [
       dateAccessed: 'July 19, 2024',
       URL: 'https://en.wikipedia.org/wiki/Violence_against_LGBT_people'
     },
+    {
+      title: 'Sexism',
+      author: 'Gina Masequesmay',
+      publisher: 'Britannica',
+      date: 'July 18 2024',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://www.britannica.com/topic/sexism'
+    },
 ]
   function display(info){
     let sourceList = ""
