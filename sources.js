@@ -329,6 +329,22 @@ const sources = [
       dateAccessed: 'July 19, 2024',
       URL: 'https://en.wikipedia.org/wiki/Department_of_Conservation_(New_Zealand)'
     },
+    {
+      title: 'Dental Care',
+      author: 'Health New Zealand',
+      publisher: 'Health New Zealand',
+      date: '',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://info.health.nz/keeping-healthy/teeth-and-gums/dental-care'
+    },
+    {
+      title: 'There is a Crisis in Dental Care',
+      author: 'Ollie Neas',
+      publisher: 'North & South Magazine',
+      date: 'February 2021',
+      dateAccessed: 'July 19, 2024',
+      URL: 'https://northandsouth.co.nz/2021/08/25/nz-dental-care-crisis'
+    },
 ]
   function display(info){
     let sourceList = ""

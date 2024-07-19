@@ -90,6 +90,11 @@ const causes = [
     img: "images/conservation.jpg", 
     src: "conservation/index.html"
   },
+  {
+    name: "Dentistry",
+    img: "images/dentistry.webp", 
+    src: "dentistry/index.html"
+  },  
 ]
 function display(info){
   let cardsGrid = ""
